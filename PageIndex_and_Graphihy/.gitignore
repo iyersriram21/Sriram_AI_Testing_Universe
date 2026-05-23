@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# PDF files (likely test docs, not needed in repo)
+*.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit cache
+.streamlit/

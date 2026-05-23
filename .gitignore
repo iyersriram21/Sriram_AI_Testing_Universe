@@ -1,15 +1,15 @@
 # Virtual environment
-venv/
+PAGEINDEX_AND_GRAPHIPHY/venv/
 
 # Environment variables
-.env
+PAGEINDEX_AND_GRAPHIPHY/.env
 
 # PDF files (likely test docs, not needed in repo)
-*.pdf
+PAGEINDEX_AND_GRAPHIPHY/*.pdf
 
 # Python cache
-__pycache__/
-*.pyc
+PAGEINDEX_AND_GRAPHIPHY/__pycache__/
+PAGEINDEX_AND_GRAPHIPHY/*.pyc
 
 # Streamlit cache
-.streamlit/
+PAGEINDEX_AND_GRAPHIPHY/.streamlit/

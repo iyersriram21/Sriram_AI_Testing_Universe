@@ -1,0 +1,10 @@
+pageindex
+graphifyy
+streamlit
+langchain
+langchain_groq
+langchain_core
+langchain_mcp_adapters
+pypdf
+tiktoken
+python-dotenv
