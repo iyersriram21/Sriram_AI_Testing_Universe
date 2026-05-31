@@ -1,0 +1,22 @@
+{
+  "communities": {
+    "0": [
+      "arxiv_170603762v7_pdf"
+    ]
+  },
+  "cohesion": {
+    "0": 1.0
+  },
+  "gods": [
+    {
+      "id": "arxiv_170603762v7_pdf",
+      "label": "Arxiv 1706.03762v7 PDF",
+      "degree": 0
+    }
+  ],
+  "surprises": [],
+  "tokens": {
+    "input": 15539,
+    "output": 93
+  }
+}

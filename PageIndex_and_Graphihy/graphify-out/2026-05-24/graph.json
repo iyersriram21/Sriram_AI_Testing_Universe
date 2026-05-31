@@ -1,0 +1,468 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "Test_Graphiphy.py",
+      "file_type": "code",
+      "source_file": "Test_Graphiphy.py",
+      "source_location": "L1",
+      "id": "test_graphiphy_py",
+      "community": 0,
+      "norm_label": "test_graphiphy.py"
+    },
+    {
+      "label": "count_tokens()",
+      "file_type": "code",
+      "source_file": "Test_Graphiphy.py",
+      "source_location": "L34",
+      "id": "pageindex_and_graphihy_test_graphiphy_count_tokens",
+      "community": 2,
+      "norm_label": "count_tokens()"
+    },
+    {
+      "label": "extract_pdf_text()",
+      "file_type": "code",
+      "source_file": "Test_Graphiphy.py",
+      "source_location": "L50",
+      "id": "pageindex_and_graphihy_test_graphiphy_extract_pdf_text",
+      "community": 0,
+      "norm_label": "extract_pdf_text()"
+    },
+    {
+      "label": "graphify_command()",
+      "file_type": "code",
+      "source_file": "Test_Graphiphy.py",
+      "source_location": "L69",
+      "id": "pageindex_and_graphihy_test_graphiphy_graphify_command",
+      "community": 0,
+      "norm_label": "graphify_command()"
+    },
+    {
+      "label": "run_graphify_command()",
+      "file_type": "code",
+      "source_file": "Test_Graphiphy.py",
+      "source_location": "L76",
+      "id": "pageindex_and_graphihy_test_graphiphy_run_graphify_command",
+      "community": 0,
+      "norm_label": "run_graphify_command()"
+    },
+    {
+      "label": "extract_graphify_json_with_groq()",
+      "file_type": "code",
+      "source_file": "Test_Graphiphy.py",
+      "source_location": "L87",
+      "id": "pageindex_and_graphihy_test_graphiphy_extract_graphify_json_with_groq",
+      "community": 0,
+      "norm_label": "extract_graphify_json_with_groq()"
+    },
+    {
+      "label": "write_graphify_graph()",
+      "file_type": "code",
+      "source_file": "Test_Graphiphy.py",
+      "source_location": "L132",
+      "id": "pageindex_and_graphihy_test_graphiphy_write_graphify_graph",
+      "community": 0,
+      "norm_label": "write_graphify_graph()"
+    },
+    {
+      "label": "build_graphify_context()",
+      "file_type": "code",
+      "source_file": "Test_Graphiphy.py",
+      "source_location": "L184",
+      "id": "pageindex_and_graphihy_test_graphiphy_build_graphify_context",
+      "community": 0,
+      "norm_label": "build_graphify_context()"
+    },
+    {
+      "label": "ask_groq()",
+      "file_type": "code",
+      "source_file": "Test_Graphiphy.py",
+      "source_location": "L231",
+      "id": "pageindex_and_graphihy_test_graphiphy_ask_groq",
+      "community": 0,
+      "norm_label": "ask_groq()"
+    },
+    {
+      "label": "usage_card()",
+      "file_type": "code",
+      "source_file": "Test_Graphiphy.py",
+      "source_location": "L247",
+      "id": "pageindex_and_graphihy_test_graphiphy_usage_card",
+      "community": 2,
+      "norm_label": "usage_card()"
+    },
+    {
+      "label": "Return token count plus whether it is exact or an estimate.",
+      "file_type": "rationale",
+      "source_file": "Test_Graphiphy.py",
+      "source_location": "L35",
+      "id": "pageindex_and_graphihy_test_graphiphy_rationale_35",
+      "community": 2,
+      "norm_label": "return token count plus whether it is exact or an estimate."
+    },
+    {
+      "label": "Test_Pageindex_via_API.py",
+      "file_type": "code",
+      "source_file": "Test_Pageindex_via_API.py",
+      "source_location": "L1",
+      "id": "test_pageindex_via_api_py",
+      "community": 4,
+      "norm_label": "test_pageindex_via_api.py"
+    },
+    {
+      "label": "PageIndex Vectorless RAG - Test Script Docs: https://docs.pageindex.ai/quicksta",
+      "file_type": "rationale",
+      "source_file": "Test_Pageindex_via_API.py",
+      "source_location": "L1",
+      "id": "pageindex_and_graphihy_test_pageindex_via_api_rationale_1",
+      "community": 4,
+      "norm_label": "pageindex vectorless rag - test script docs: https://docs.pageindex.ai/quicksta"
+    },
+    {
+      "label": "Test_Pageindex_via_MCP.py",
+      "file_type": "code",
+      "source_file": "Test_Pageindex_via_MCP.py",
+      "source_location": "L1",
+      "id": "test_pageindex_via_mcp_py",
+      "community": 3,
+      "norm_label": "test_pageindex_via_mcp.py"
+    },
+    {
+      "label": "upload_and_get_doc_id()",
+      "file_type": "code",
+      "source_file": "Test_Pageindex_via_MCP.py",
+      "source_location": "L15",
+      "id": "pageindex_and_graphihy_test_pageindex_via_mcp_upload_and_get_doc_id",
+      "community": 3,
+      "norm_label": "upload_and_get_doc_id()"
+    },
+    {
+      "label": "ask()",
+      "file_type": "code",
+      "source_file": "Test_Pageindex_via_MCP.py",
+      "source_location": "L30",
+      "id": "pageindex_and_graphihy_test_pageindex_via_mcp_ask",
+      "community": 3,
+      "norm_label": "ask()"
+    },
+    {
+      "label": "PageIndex Vectorless RAG",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": null,
+      "source_url": "https://github.com/your-username/pageindex-rag.git",
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "readme_pageindex_vectorless_rag",
+      "community": 1,
+      "norm_label": "pageindex vectorless rag"
+    },
+    {
+      "label": "Test_Pageindex_via_API.py",
+      "file_type": "code",
+      "source_file": "PageIndex/Test_Pageindex_via_API.py",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "readme_test_pageindex_via_api_py",
+      "community": 1,
+      "norm_label": "test_pageindex_via_api.py"
+    },
+    {
+      "label": "pageindex",
+      "file_type": "concept",
+      "source_file": "requirements.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "requirements_pageindex",
+      "community": 1,
+      "norm_label": "pageindex"
+    },
+    {
+      "label": "langchain-groq",
+      "file_type": "concept",
+      "source_file": "requirements.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "requirements_langchain_groq",
+      "community": 1,
+      "norm_label": "langchain-groq"
+    },
+    {
+      "label": "langchain",
+      "file_type": "concept",
+      "source_file": "requirements.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "requirements_langchain",
+      "community": 1,
+      "norm_label": "langchain"
+    },
+    {
+      "label": "streamlit",
+      "file_type": "concept",
+      "source_file": "requirements.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "id": "requirements_streamlit",
+      "community": 1,
+      "norm_label": "streamlit"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Test_Graphiphy.py",
+      "source_location": "L34",
+      "weight": 1.0,
+      "source": "test_graphiphy_py",
+      "target": "pageindex_and_graphihy_test_graphiphy_count_tokens",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Test_Graphiphy.py",
+      "source_location": "L50",
+      "weight": 1.0,
+      "source": "test_graphiphy_py",
+      "target": "pageindex_and_graphihy_test_graphiphy_extract_pdf_text",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Test_Graphiphy.py",
+      "source_location": "L69",
+      "weight": 1.0,
+      "source": "test_graphiphy_py",
+      "target": "pageindex_and_graphihy_test_graphiphy_graphify_command",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Test_Graphiphy.py",
+      "source_location": "L76",
+      "weight": 1.0,
+      "source": "test_graphiphy_py",
+      "target": "pageindex_and_graphihy_test_graphiphy_run_graphify_command",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Test_Graphiphy.py",
+      "source_location": "L87",
+      "weight": 1.0,
+      "source": "test_graphiphy_py",
+      "target": "pageindex_and_graphihy_test_graphiphy_extract_graphify_json_with_groq",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Test_Graphiphy.py",
+      "source_location": "L132",
+      "weight": 1.0,
+      "source": "test_graphiphy_py",
+      "target": "pageindex_and_graphihy_test_graphiphy_write_graphify_graph",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Test_Graphiphy.py",
+      "source_location": "L184",
+      "weight": 1.0,
+      "source": "test_graphiphy_py",
+      "target": "pageindex_and_graphihy_test_graphiphy_build_graphify_context",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Test_Graphiphy.py",
+      "source_location": "L231",
+      "weight": 1.0,
+      "source": "test_graphiphy_py",
+      "target": "pageindex_and_graphihy_test_graphiphy_ask_groq",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Test_Graphiphy.py",
+      "source_location": "L247",
+      "weight": 1.0,
+      "source": "test_graphiphy_py",
+      "target": "pageindex_and_graphihy_test_graphiphy_usage_card",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Test_Graphiphy.py",
+      "source_location": "L248",
+      "weight": 1.0,
+      "source": "pageindex_and_graphihy_test_graphiphy_usage_card",
+      "target": "pageindex_and_graphihy_test_graphiphy_count_tokens",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "Test_Graphiphy.py",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "pageindex_and_graphihy_test_graphiphy_rationale_35",
+      "target": "pageindex_and_graphihy_test_graphiphy_count_tokens",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Test_Graphiphy.py",
+      "source_location": "L78",
+      "weight": 1.0,
+      "source": "pageindex_and_graphihy_test_graphiphy_run_graphify_command",
+      "target": "pageindex_and_graphihy_test_graphiphy_graphify_command",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Test_Graphiphy.py",
+      "source_location": "L202",
+      "weight": 1.0,
+      "source": "pageindex_and_graphihy_test_graphiphy_build_graphify_context",
+      "target": "pageindex_and_graphihy_test_graphiphy_run_graphify_command",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Test_Graphiphy.py",
+      "source_location": "L193",
+      "weight": 1.0,
+      "source": "pageindex_and_graphihy_test_graphiphy_build_graphify_context",
+      "target": "pageindex_and_graphihy_test_graphiphy_extract_graphify_json_with_groq",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "Test_Graphiphy.py",
+      "source_location": "L200",
+      "weight": 1.0,
+      "source": "pageindex_and_graphihy_test_graphiphy_build_graphify_context",
+      "target": "pageindex_and_graphihy_test_graphiphy_write_graphify_graph",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "Test_Pageindex_via_API.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "pageindex_and_graphihy_test_pageindex_via_api_rationale_1",
+      "target": "test_pageindex_via_api_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Test_Pageindex_via_MCP.py",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "test_pageindex_via_mcp_py",
+      "target": "pageindex_and_graphihy_test_pageindex_via_mcp_upload_and_get_doc_id",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Test_Pageindex_via_MCP.py",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "test_pageindex_via_mcp_py",
+      "target": "pageindex_and_graphihy_test_pageindex_via_mcp_ask",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "readme_pageindex_vectorless_rag",
+      "target": "readme_test_pageindex_via_api_py"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "readme_pageindex_vectorless_rag",
+      "target": "requirements_pageindex"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "readme_pageindex_vectorless_rag",
+      "target": "requirements_langchain_groq"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "readme_pageindex_vectorless_rag",
+      "target": "requirements_langchain"
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "README.md",
+      "source_location": null,
+      "weight": 1.0,
+      "source": "readme_pageindex_vectorless_rag",
+      "target": "requirements_streamlit"
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "524fb856a882f6a08b0806459ed910f5cb795d07"
+}

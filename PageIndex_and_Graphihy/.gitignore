@@ -5,7 +5,7 @@ venv/
 .env
 
 # PDF files (likely test docs, not needed in repo)
-*.pdf
+
 
 # Python cache
 __pycache__/

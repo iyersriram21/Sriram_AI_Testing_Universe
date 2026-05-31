@@ -1,0 +1,145 @@
+{
+  "communities": {
+    "0": [
+      "pageindex_and_graphihy_test_graphiphy_ask_groq",
+      "pageindex_and_graphihy_test_graphiphy_build_graphify_context",
+      "pageindex_and_graphihy_test_graphiphy_extract_graphify_json_with_groq",
+      "pageindex_and_graphihy_test_graphiphy_extract_pdf_text",
+      "pageindex_and_graphihy_test_graphiphy_graphify_command",
+      "pageindex_and_graphihy_test_graphiphy_run_graphify_command",
+      "pageindex_and_graphihy_test_graphiphy_write_graphify_graph",
+      "test_graphiphy_py"
+    ],
+    "1": [
+      "readme_pageindex_vectorless_rag",
+      "readme_test_pageindex_via_api_py",
+      "requirements_langchain",
+      "requirements_langchain_groq",
+      "requirements_pageindex",
+      "requirements_streamlit"
+    ],
+    "2": [
+      "pageindex_and_graphihy_test_graphiphy_count_tokens",
+      "pageindex_and_graphihy_test_graphiphy_rationale_35",
+      "pageindex_and_graphihy_test_graphiphy_usage_card"
+    ],
+    "3": [
+      "pageindex_and_graphihy_test_pageindex_via_mcp_ask",
+      "pageindex_and_graphihy_test_pageindex_via_mcp_upload_and_get_doc_id",
+      "test_pageindex_via_mcp_py"
+    ],
+    "4": [
+      "pageindex_and_graphihy_test_pageindex_via_api_rationale_1",
+      "test_pageindex_via_api_py"
+    ]
+  },
+  "cohesion": {
+    "0": 0.39285714285714285,
+    "1": 0.3333333333333333,
+    "2": 0.6666666666666666,
+    "3": 0.6666666666666666,
+    "4": 1.0
+  },
+  "gods": [
+    {
+      "id": "readme_pageindex_vectorless_rag",
+      "label": "PageIndex Vectorless RAG",
+      "degree": 5
+    },
+    {
+      "id": "pageindex_and_graphihy_test_graphiphy_build_graphify_context",
+      "label": "build_graphify_context()",
+      "degree": 4
+    },
+    {
+      "id": "pageindex_and_graphihy_test_graphiphy_count_tokens",
+      "label": "count_tokens()",
+      "degree": 3
+    },
+    {
+      "id": "pageindex_and_graphihy_test_graphiphy_run_graphify_command",
+      "label": "run_graphify_command()",
+      "degree": 3
+    },
+    {
+      "id": "pageindex_and_graphihy_test_graphiphy_graphify_command",
+      "label": "graphify_command()",
+      "degree": 2
+    },
+    {
+      "id": "pageindex_and_graphihy_test_graphiphy_extract_graphify_json_with_groq",
+      "label": "extract_graphify_json_with_groq()",
+      "degree": 2
+    },
+    {
+      "id": "pageindex_and_graphihy_test_graphiphy_write_graphify_graph",
+      "label": "write_graphify_graph()",
+      "degree": 2
+    },
+    {
+      "id": "pageindex_and_graphihy_test_graphiphy_usage_card",
+      "label": "usage_card()",
+      "degree": 2
+    },
+    {
+      "id": "pageindex_and_graphihy_test_graphiphy_rationale_35",
+      "label": "Return token count plus whether it is exact or an estimate.",
+      "degree": 1
+    },
+    {
+      "id": "pageindex_and_graphihy_test_pageindex_via_api_rationale_1",
+      "label": "PageIndex Vectorless RAG - Test Script Docs: https://docs.pageindex.ai/quicksta",
+      "degree": 1
+    }
+  ],
+  "surprises": [
+    {
+      "source": "PageIndex Vectorless RAG",
+      "target": "pageindex",
+      "source_files": [
+        "README.md",
+        "requirements.txt"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "connects across different repos/directories; peripheral node `pageindex` unexpectedly reaches hub `PageIndex Vectorless RAG`"
+    },
+    {
+      "source": "PageIndex Vectorless RAG",
+      "target": "langchain-groq",
+      "source_files": [
+        "README.md",
+        "requirements.txt"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "connects across different repos/directories; peripheral node `langchain-groq` unexpectedly reaches hub `PageIndex Vectorless RAG`"
+    },
+    {
+      "source": "PageIndex Vectorless RAG",
+      "target": "langchain",
+      "source_files": [
+        "README.md",
+        "requirements.txt"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "connects across different repos/directories; peripheral node `langchain` unexpectedly reaches hub `PageIndex Vectorless RAG`"
+    },
+    {
+      "source": "PageIndex Vectorless RAG",
+      "target": "streamlit",
+      "source_files": [
+        "README.md",
+        "requirements.txt"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "connects across different repos/directories; peripheral node `streamlit` unexpectedly reaches hub `PageIndex Vectorless RAG`"
+    }
+  ],
+  "tokens": {
+    "input": 15951,
+    "output": 612
+  }
+}
